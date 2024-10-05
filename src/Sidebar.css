@@ -1,0 +1,36 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 58px 0 0; 
+    width: 12vw; 
+    height: 92vh;
+    background-color: #fff;
+    border-right: #000 solid 1px;
+    z-index: 600;
+  }
+  
+  .list-group-item {
+    font-size: 1rem;
+
+    color: #040404;
+  }
+  
+  .list-group-item-action:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .list-group-item.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  @media (max-width: 991.98px) {
+    .sidebar {
+      width: 100%;
+    }
+  }
+.side{
+    background-color: #000;
+}  

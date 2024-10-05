@@ -1,0 +1,39 @@
+.add{
+    height: 5vh;
+    margin-bottom: 6vh;
+}
+.card-container {
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;            
+    flex-wrap: wrap;                
+    gap: 25px;           
+       
+  }
+
+.card-body0{
+    display: flexbox;
+    display: flex;
+    justify-content: space-around;  
+    align-items: center;            
+    flex-wrap: wrap;                
+    gap: 20px;   
+    
+}
+  
+.meet{
+    margin-left:-1vw;
+    height: 17rem;
+    width:45vw;
+    border-radius: 1px;
+}
+
+
+.upmeeting{
+    margin-top: 4vh;
+   
+}
+
+.card-container{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

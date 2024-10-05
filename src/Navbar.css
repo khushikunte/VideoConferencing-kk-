@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color:rgb(65, 65, 122);
+    margin-left: -7vw;
+    margin-top: -30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    width: 100vw;
+    
+  }
+.navbar-brand{
+    color: black;
+    font-size: 4.3vh;
+    margin-right: 65vw;
+    
+}
+.imgvideo{
+  height: 7vh;
+  width: 3vw;
+}
+
+.login{
+  height: 8vh;
+  margin-left: 20vw;
+}
